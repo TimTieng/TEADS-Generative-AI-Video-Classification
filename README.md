@@ -1,10 +1,10 @@
 ## TEADS-Generative-AI-Video-Classification
 
-**Program**: Tech Excellence Advanced Data Science Program - Generative AI Project
+**Program**: Technology Excellence - Advanced Data Science (TEADS) Program - Generative AI Video Classification Project
 
 **Authors**: Tim Tieng and Afia Owusu-Forfie
 
-## Environement Setup
+## Environment Setup
 
 ### System Requirements
 - Ensure that `conda`, `pip`, and `pyenv` are installed on your machine globally.
