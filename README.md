@@ -8,7 +8,7 @@
 
 1. Pyenv Installation - We confirmed as a group that we have the package 'pyenv', 'virtualenv' installed locally to our machines. This allows us to make setup virtual environments to manage this project. Prior to starting, ensure that you have *conda*, *pip*, and *pyenv* installed on globally on your machine.
 
-2. Project Folder Creation - Additionally, we made sure that we have the same folder structure for project 2. We ensured that we have the following directories present/created on our local machines: Config, Data, Notebooks. This can be updated as the project progresses.
+2. Project Folder Creation - Additionally, we made sure that we have the same folder structure for project 3. We ensured that we have the following directories present/created on our local machines: *api,config, data, doc, models, notebooks and src*. This can be updated as the project progresses.
 
 3. Virtual Environment Creation - As a team, we confirmed to work on a stable version of Python, **3.10.12**. To accomplish this, we ran the following commands:
 
