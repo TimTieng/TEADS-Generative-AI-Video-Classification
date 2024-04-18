@@ -1,0 +1,16 @@
+numpy
+pandas
+edvart
+matplotlib
+seaborn
+requests
+scikit-learn
+statsmodels
+scipy
+feature_engine
+keras
+tensorflow
+tensorboard
+mlflow
+hyperopt
+
