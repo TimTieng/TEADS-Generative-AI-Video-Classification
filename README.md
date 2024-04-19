@@ -46,7 +46,7 @@
        git push -u origin <FirstNameLastName_Project3>
    *Remember to replace with the name of your newly-created branch*
 
-3. **Commits and Pushing Changes to the Repository**: Commit your local changes early and often with succinct detailed messages. **REMEMBER TO CLEAR ALL OUTPUTS IN YOUR NOTEBOOK FILE BEFORE PROCEEDDING WITH THE STEPS BELOW**
+3. **Commits and Pushing Changes to the Repository**: Commit your local changes early and often with succinct detailed messages. **REMEMBER TO CLEAR ALL OUTPUTS IN YOUR NOTEBOOK FILE BEFORE PROCEEDING WITH THE STEPS BELOW**
 
        git status
        git add <name of modified local file>
