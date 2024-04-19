@@ -25,7 +25,7 @@
        pyenv activate TechEx_Project3
 
        # For Conda Environments
-       conda create -n TechEx_Project3 python= 3.10.12
+       conda create -n TechEx_Project3 python=3.10.12
        conda init
        conda activate TechEx_Project3
 
