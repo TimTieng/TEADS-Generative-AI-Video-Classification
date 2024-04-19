@@ -32,3 +32,27 @@
        pip install -r pip_requirements.txt
        conda install --file conda_requirements.txt
 
+### Version Control Practices
+
+1. **Branches Naming Convention**: Naming convention practices for local branch creation will be <FirstNameLastName_Project3>. After cloning the repository, run this command in your cmd prompt/terminal to create and checkout your branch
+
+       git checkout -b <FirstNameLastName_Project3> # Please fill in with your own information; please do not include the "< >" symbols
+       git --set-uptstream-to=origin    
+
+2. **Set Upsteam Branch**: After creating your branch using the steps above, you need to set the upstream branch to track the remote repository. Run the following command:
+
+       git push -u origin <FirstNameLastName_Project3>
+   *Remember to replace with the name of your newly-created branch*
+
+3. **Commits and Pushing Changes to the Repository**: Commit your local changes early and often with succinct detailed messages. **REMEBER TO CLEAR ALL OUTPUTS IN YOUR NOTEBOOK FILE BEFORE PROCEEDDING WITH THE STEPS BELOW**
+
+       git status
+       git add <name of modified local file>
+       git commit -m "Meaningful Message of your change"
+       git push origin HEAD
+4. **Pulling Changes to Local Branches**: To minimize merge conflicts and effectively handle version control of notebooks, Project members will be working on their own notebook files and their own branches. If updated utility scripts or data file are added to the main repository, each project memeber is expected to switch to the main branch, pull the changes, and then switch back to their local branch. This will help minimize merge conflicts while ensuring all project members regardless of github expperience can use it. If changes are merged into main, local branches must be updated. The commands are as follows:
+
+       git checkout main # Swtiches to the main branch
+       git status #  Command will be used to verify if your local branch is behind/ahead
+       git pull # pulls the latest changes from main to your local branch
+       git checkout <Your branch>
