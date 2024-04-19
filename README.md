@@ -46,14 +46,14 @@
        git push -u origin <FirstNameLastName_Project3>
    *Remember to replace with the name of your newly-created branch*
 
-3. **Commits and Pushing Changes to the Repository**: Commit your local changes early and often with succinct detailed messages. **REMEBER TO CLEAR ALL OUTPUTS IN YOUR NOTEBOOK FILE BEFORE PROCEEDDING WITH THE STEPS BELOW**
+3. **Commits and Pushing Changes to the Repository**: Commit your local changes early and often with succinct detailed messages. **REMEMBER TO CLEAR ALL OUTPUTS IN YOUR NOTEBOOK FILE BEFORE PROCEEDDING WITH THE STEPS BELOW**
 
        git status
        git add <name of modified local file>
        git commit -m "Meaningful Message of your change"
        git push origin HEAD
    
-5. **Pulling Changes to Local Branches**: To minimize merge conflicts and effectively handle version control of notebooks, Project members will be working on their own notebook files and their own branches. If updated utility scripts or data file are added to the main repository, each project memeber is expected to switch to the main branch, pull the changes, and then switch back to their local branch. This will help minimize merge conflicts while ensuring all project members regardless of github expperience can use it. If changes are merged into main, local branches must be updated. The commands are as follows:
+5. **Pulling Changes to Local Branches**: To minimize merge conflicts and effectively handle version control of notebooks, Project members will be working on their own notebook files and their own branches. If updated utility scripts or data file are added to the main repository, each project member is expected to switch to the main branch, pull the changes, and then switch back to their local branch. This will help minimize merge conflicts while ensuring all project members regardless of github expperience can use it. If changes are merged into main, local branches must be updated. The commands are as follows:
 
        git checkout main # Swtiches to the main branch
        git status #  Command will be used to verify if your local branch is behind/ahead
