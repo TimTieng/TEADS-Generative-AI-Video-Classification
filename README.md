@@ -23,9 +23,10 @@
 
        # For Conda Environments
        conda create -n TechEx_Project3 python= 3.10.12
+       conda init
        conda activate TechEx_Project3
 
-3. **Package Installation** - To ensure  local machines have all the required packages, we created a "requirements" text file that was added to our "Config" folder. This text file has the package names required to compelte this project. To install the packages outlined in the pip_requirements.txt file, we rand the following command in our local terminals within the "Config" folder:
+4. **Package Installation** - To ensure  local machines have all the required packages, we created a "requirements" text file that was added to our "Config" folder. This text file has the package names required to compelte this project. To install the packages outlined in the pip_requirements.txt file, we rand the following command in our local terminals within the "Config" folder:
 
        cd config
        pip install -r pip_requirements.txt
