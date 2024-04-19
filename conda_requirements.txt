@@ -1,4 +1,2 @@
 lightgbm
-torch
 torchvision
-torchaudio
