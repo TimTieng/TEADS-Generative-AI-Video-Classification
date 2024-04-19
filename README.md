@@ -4,6 +4,9 @@
 
 **Authors**: Tim Tieng and Afia Owusu-Forfie
 
+**Objective**: Develop a model to classify video content into categories such as sports, news, movies, etc., and enhance this classification by generating descriptive captions or summaries that provide additional context about the content. This can be particularly useful for content curation platforms, accessibility applications (e.g., providing descriptions for the hearing impaired), or educational tools where supplementary information enhances learning.
+
+
 ## Environment Setup
 
 ### System Requirements
