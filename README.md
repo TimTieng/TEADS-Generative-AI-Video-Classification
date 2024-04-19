@@ -57,5 +57,6 @@
 
        git checkout main # Swtiches to the main branch
        git status #  Command will be used to verify if your local branch is behind/ahead
-       git pull # pulls the latest changes from main to your local branch
+       git pull # pulls the latest changes from main to your local computer
        git checkout <Your branch>
+       git pull # this additional pull will sync changes to your branch
