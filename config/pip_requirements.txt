@@ -13,4 +13,6 @@ tensorflow
 tensorboard
 mlflow
 hyperopt
+torch
+torchvision
 
