@@ -15,4 +15,5 @@ mlflow
 hyperopt
 torch
 torchvision
+torchaudio
 
