@@ -17,4 +17,7 @@ torch
 torchvision
 torchaudio
 utils
-
+cv2
+imageio
+Ipython
+imutils
