@@ -3,3 +3,6 @@ data/
 
 # Ignore everything in the docs directory
 docs/
+
+#Ignore everything in the Logs directory
+Logs/
