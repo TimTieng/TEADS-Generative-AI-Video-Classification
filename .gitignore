@@ -6,3 +6,6 @@ docs/
 
 #Ignore everything in the Logs directory
 Logs/
+
+# Ignore the video_classifier.weights.h5 file
+notebooks/video_classifier.weights.h5
