@@ -17,9 +17,9 @@ torch
 torchvision
 torchaudio
 utils
-cv2
 imageio
 Ipython
 imutils
 opencv-python
-re
+jupyter
+jupyterlab
